@@ -1,0 +1,15 @@
+/Users/patiencemuru/Projects/Eliza/Eliza/bin/Debug/net7.0/Eliza
+/Users/patiencemuru/Projects/Eliza/Eliza/bin/Debug/net7.0/Eliza.deps.json
+/Users/patiencemuru/Projects/Eliza/Eliza/bin/Debug/net7.0/Eliza.runtimeconfig.json
+/Users/patiencemuru/Projects/Eliza/Eliza/bin/Debug/net7.0/Eliza.dll
+/Users/patiencemuru/Projects/Eliza/Eliza/bin/Debug/net7.0/Eliza.pdb
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/Eliza.csproj.AssemblyReference.cache
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/Eliza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/Eliza.AssemblyInfoInputs.cache
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/Eliza.AssemblyInfo.cs
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/Eliza.csproj.CoreCompileInputs.cache
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/Eliza.dll
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/refint/Eliza.dll
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/Eliza.pdb
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/Eliza.genruntimeconfig.cache
+/Users/patiencemuru/Projects/Eliza/Eliza/obj/Debug/net7.0/ref/Eliza.dll
